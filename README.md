@@ -1,8 +1,8 @@
 # AltoFuse
-A decentralized Music Platform (Web and App) that will use InterPlanetary File System (IPFS) and Ethereum Blockchain to store the music files of creators and will allow collaboration of various Instrumentalists/vocalists to collaborate and contribute towards the formation of a musical masterpiece that can be listed on the platform as a Non- Fungible Token (ERC 721) available for the public or to be auctioned to a music label or a collector. Our ownership smart-contract protocol will allow multiple contributors to receive their fair share of ownership rights of the music track and will receive funds accordingly.
+A decentralized Music Platform (Web and App) that uses InterPlanetary File System (IPFS) and Ethereum Blockchain to store the music files of creators and allows collaboration of various Instrumentalists/vocalists to collaborate and contribute towards the formation of a musical masterpiece that can be listed on the platform as a Non- Fungible Token (ERC 721) available for the public or to be auctioned to a music label or a collector. Our ownership smart-contract protocol will allow multiple contributors to receive their fair share of ownership rights of the music track and will receive funds accordingly.
 
 ### Frameworks
-Flutter (cross-platform frontend)
+Nodejs
 HardHat (Ethereum Development 
 and testing framework)
 Mocha and Chai (Testing contracts)
